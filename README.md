@@ -1,4 +1,4 @@
-# **Web_Portfolio** 
+
 \
 ***Information about me:***
 
@@ -11,7 +11,7 @@
 * I’m junior developer
 
 \
-<u>***Hobbies*** ***:***</u>
+<u>Hobbies:</u>
 
  * Programming 
  
